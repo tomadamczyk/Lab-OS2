@@ -17,7 +17,7 @@ d) w przypadku podkatalogów pierwszego danego katalogu, utwórz odpowiednie dow
 
 
 
-### Lab2 - program find
+### Lab4 - program find
 
 #### Zadanie 1
 
@@ -35,7 +35,7 @@ c) wypisze, ile spośród obecnych plików zwykłych jest niewielkich (rozmiar <
 
 d) w przypadku dowiązań symbolicznych określi (wypisze), które są uszkodzone (nie wskazują poprawnych/istniejących miejsc w systemie plików)
 
-### Lab4 - potoki
+### Lab5 - potoki
 
 #### Zadanie 1
 
