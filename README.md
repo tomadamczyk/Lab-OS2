@@ -52,3 +52,18 @@ b) policzy, ile procesów należy do poszczególnych użytkowników systemu
 c) zamieni wielokrotne wystąpienia spacji na pojedyncze ich wystąpienia
 
 d) zliczy, ile unikalnych programów jest uruchomionych w systemie (zakładamy najprościej, że program1, /jakiś/program1 oraz /jakiś/program1 --jakaś-opcja to dwa unikalne działające programy: program1 oraz /jakiś/program1)
+
+### Lab6 - program AWK
+
+#### Zadanie 1
+
+Napisz skrypt, który będzie ostrzegał przed przegrzaniem się podzespołów, analizując wynik działania komendy sensors (jeżeli tego programu brakuje, posłuż się zawartością pliku datko.pl/SO2/sensors.txt). Skrypt ma wyświetlić czujniki, których obecna temperatura przekracza ustaloną wartość (dowolną). [poproszę o jedno, zmyślne wykonanie komendy awk]
+
+### Lab7 - wyrażenia regularne
+
+#### Zadanie 1
+
+Pobierz plik http://datko.pl/SO2/sensors.txt - najlepiej użyj programu wget z poziomu konsoli (składnia: wget <adres-pliku>). Następnie napisz skrypt, który z całej zawartości tego pliku zwróci (wypisze na ekran) wszystkie wartości aktualnych temperatur (zwróć tylko i wyłącznie wartości z jednostkami; każdą wypisać w nowej linii). [poproszę o jedno, zmyślne wykonanie komendy awk z wyrażeniami regularnymi]
+
+
+
